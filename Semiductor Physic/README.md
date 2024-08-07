@@ -1,8 +1,7 @@
 # Định nghĩa và ứng dụng các loại BJT
 
 ## Định nghĩa
-**BJT (Bipolar Junction Transistor)** là một loại transistor được sử dụng rộng rãi trong các mạch điện tử. BJT có hai loại chính: NPN và PNP, được cấu tạo từ ba lớp bán dẫn (P và N) được ghép nối với nhau, tạo thành ba vùng: emitter (E), base (B), và collector (C).
-
+**BJT (Bipolar Junction Transistor)** là một loại transistor được sử dụng rộng rãi trong các mạch điện tử. BJT có hai loại chính: NPN và PNP, được cấu tạo từ ba lớp bán dẫn (P và N) được ghép nối với nhau, tạo thành ba vùng: emitter (E), base (B), và collector (C). Miền emiter được pha tạp chất nhiều nhất miền base pha tạp chất ít nhất miền collector pha ít hơn miền emiter
 ## Các loại BJT
 1. **NPN Transistor**:
    - Emitter: Chứa nhiều hạt điện tử tự do (N-type).
