@@ -1,5 +1,4 @@
-# Nội dung Markdown về các mạch tuần tự
-md_content_sequential_circuits = """
+
 # Hướng dẫn ôn tập về Mạch tuần tự
 
 ## 1. Giới thiệu về mạch tuần tự
