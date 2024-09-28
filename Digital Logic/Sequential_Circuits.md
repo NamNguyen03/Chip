@@ -1,6 +1,3 @@
-
-# Hướng dẫn ôn tập về Mạch tuần tự
-
 ## 1. Giới thiệu về mạch tuần tự
 Sequential Circuits là loại mạch điện tử mà đầu ra phụ thuộc không chỉ vào tín hiệu đầu vào hiện tại mà còn vào trạng thái trước đó (bộ nhớ). Điều này có nghĩa là chúng có thể lưu trữ thông tin và hoạt động dựa trên thời gian.
 
