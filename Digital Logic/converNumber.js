@@ -39,3 +39,4 @@ let baseFrom = 10;  // Cơ số ban đầu (ví dụ: cơ số 10)
 let baseTo = 2;    // Cơ số đích (ví dụ: cơ số 2)
 
 let result = convertBaseWithDecimal(number, baseFrom, baseTo);
+result
